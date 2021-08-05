@@ -8,7 +8,6 @@ hello world!
 hello world!    zzzzzzzzzzzz
 hello world!
 hello world!
-<<<<<<< HEAD
 hello world!   lalala
 hello world!
 hello world!
@@ -26,3 +25,4 @@ hello world!
 hello world!
 hello world!
 1111111111111111111111
+22222222222222222222222  by  lhc
