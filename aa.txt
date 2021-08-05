@@ -8,9 +8,12 @@ hello world!
 hello world!    zzzzzzzzzzzz
 hello world!
 hello world!
+<<<<<<< HEAD
 hello world!   lalala
 hello world!
 hello world!
+hello world!    
+hello world!     hehehe
 hello world!
 hello world!    hhhhhhhhhhhh
 hello world!
